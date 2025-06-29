@@ -47,7 +47,7 @@ Powered by OpenAI's Agents SDK, Rowboat is the fastest way to build multi-agents
       ```bash
    export OPENAI_API_KEY=your-openai-api-key
    ```
-    author: luojinjin
+    author: luojinjin2003529
    
 2. Clone the repository and start Rowboat
    ```bash
